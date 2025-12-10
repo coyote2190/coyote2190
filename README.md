@@ -1,6 +1,6 @@
 👋 Hi, I’m @coyote2190
 
-👀 https://ykhalfouni.fr/ - https://yklic.fr/
+👀 https://sea-click-and-sun.fr/
 
 <!---
 coyote2190/coyote2190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
