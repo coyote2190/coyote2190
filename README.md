@@ -3,7 +3,6 @@
 🚀 Front-end Engineer • React / Next.js • UI & Design Systems  
 🌊 Founder of [Sea Click & Sun](https://sea-click-and-sun.fr)
 
----
 
 ## 👀 About me
 
@@ -12,7 +11,7 @@
 - 🎨 UI, Design Systems & Performance
 - 🧠 Focused on clean architecture & DX
 
----
+
 
 ## 🛠️ Tech Stack
 
