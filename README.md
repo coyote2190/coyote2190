@@ -1,13 +1,23 @@
-👋 Hi, I’m @coyote2190
+# 👋 Hi, I'm Yannick (aka coyote2190)
 
-👀 https://sea-click-and-sun.fr/
+🚀 Front-end Engineer • React / Next.js • UI & Design Systems  
+🌊 Founder of [Sea Click & Sun](https://sea-click-and-sun.fr)
 
-<!---
-coyote2190/coyote2190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+## 👀 About me
+
+- 💻 Front-end developer with 14+ years experience
+- ⚛️ React / Next.js / TypeScript / MUI
+- 🎨 UI, Design Systems & Performance
+- 🧠 Focused on clean architecture & DX
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+React • Next.js • TypeScript
+MUI • Tailwind 
+Node.js • REST APIs
+Figma • Design Systems
